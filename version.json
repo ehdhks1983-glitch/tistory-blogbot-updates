@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "",
-  "message": ""
+  "version": "1.2.0",
+  "download_url": "https://github.com/ehdhks1983-glitch/tistory-blogbot-updates/releases/download/v1.2.0/TistoryBlogBot_Setup_v1.2.0.exe",
+  "message": "v1.2.0 정식 배포 — EXE 빌드 안정화(TCL/패키지 번들), 발행 엔진 개선."
 }
